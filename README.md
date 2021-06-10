@@ -7,7 +7,7 @@
 -
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | Java 
+- 💻 &nbsp;  JavaScript | Java | C# 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
 - 🛢 &nbsp; MySQL | SQLServer
 - 🔧 &nbsp; Git | GitHub | Docker
