@@ -12,3 +12,6 @@
 - 🛢 &nbsp; MySQL | SQLServer
 - 🔧 &nbsp; Git | GitHub | Docker
 - 🖥 &nbsp; ArcGIS | SPSS
+<br/>
+
+[![Exauce Mwililikwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exauce-mwililikwa&show_icons=true)](https://github.com/exaucemwililikwa)
