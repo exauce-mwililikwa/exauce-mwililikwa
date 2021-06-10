@@ -5,3 +5,8 @@
 - 🌱 &nbsp; Learning how to build strong backend applications and Machine Learning
 - ✍️ &nbsp; Got a hobby on Chess 
 <h3>🛠 Tech Stack</h3>
+- 💻 &nbsp;  JavaScript | Java 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
+- 🛢 &nbsp; MySQL | SQLServer
+- 🔧 &nbsp; Git | GitHub | Docker
+- 🖥 &nbsp; ArcGIS | SPSS
