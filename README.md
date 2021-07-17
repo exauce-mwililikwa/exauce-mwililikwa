@@ -28,7 +28,7 @@
 <h3>📞 Call me</h3>
 
 <br/>
-  <a href="https://www.instagram.com/exauce mwililikwa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-exaucemwililikwa__-blue?style=flat-square&logo=instagram"></a>
+  <a href="https://www.instagram.com/exauce mwililikwa/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-exauce_mwililikw__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:exaucemwililikwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-exaucemwililikwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>&nbsp;&nbsp;
 
 ⭐️ From [exauce-mwililikwa](https://github.com/exauce-mwililikwa)
