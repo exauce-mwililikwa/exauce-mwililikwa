@@ -15,9 +15,9 @@
 - 🖥 &nbsp; ArcGIS | SPSS
 <br/>
 
-[![Exauce Mwililikwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exauce-mwililikwa&show_icons=true)](https://github.com/exaucemwililikwa)
+[![Exauce Mwililikwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exauce-mwililikwa&show_icons=true)](https://github.com/exauce-mwililikwa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exauce-mwililikwa&show_icons=true&theme=radical&layout=compact)](https://github.com/exaucemwililikwa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exauce-mwililikwa&show_icons=true&theme=radical&layout=compact)](https://github.com/exauce-mwililikwa/github-readme-stats)
 
 <h3>🛠 Design</h3>
 
