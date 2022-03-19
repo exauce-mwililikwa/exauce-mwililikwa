@@ -31,5 +31,5 @@
   <a href="https://www.instagram.com/exauce_mwililikw/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-exauce_mwililikw__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:exaucemwililikwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-exaucemwililikwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>&nbsp;&nbsp;
 <h3>CISCO NETWORK ACADEMY</h3>
-<img width="90%" height = "15%" src="https://pbs.twimg.com/media/FIbV7wQVcBg-SP6?format=png&name=900x900" alt="cover" />
+<img width="90%" height = "15%" src="https://media-exp1.licdn.com/dms/image/C4D22AQFRaDLvlFt_Mg/feedshare-shrink_1280/0/1647269751310?e=1650499200&v=beta&t=HETohCwdLnWDR7aRnzjsweD1KaEukJuD4ciIYW4VFb4" alt="cover" />
 ⭐️ From [exauce-mwililikwa](https://github.com/exauce-mwililikwa)
