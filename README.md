@@ -32,5 +32,5 @@
 <a href="mailto:exaucemwililikwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-exaucemwililikwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>&nbsp;&nbsp;
 <h3>CISCO NETWORK ACADEMY</h3>
 <img width="90%" height = "15%" src="https://media-exp1.licdn.com/dms/image/C4D22AQFRaDLvlFt_Mg/feedshare-shrink_800/0/1647269751310?e=2147483647&v=beta&t=RddKjOviRdrIiJ4Nzr6WarM-u-cRngqLjT1siPPOgkU" alt="cover" />
-<img width="90%" height = "15%" src="https://media-exp1.licdn.com/dms/image/C4D22AQFpyTVM7dfR2A/feedshare-shrink_1280/0/1640706483361?e=1650499200&v=beta&t=XiUBIVDrjSF7rXt0QtDTD1VRbL_yr5k-6P5fjcAIWmw" alt="cover" />
+<img width="90%" height = "15%" src="https://media-exp1.licdn.com/dms/image/C4D22AQFpyTVM7dfR2A/feedshare-shrink_800/0/1640706483362?e=2147483647&v=beta&t=RNmmZoUAwbmX1ragGGjgbkxtgNp09i2hv2lbIOFeEpY" alt="cover" />
 ⭐️ From [exauce-mwililikwa](https://github.com/exauce-mwililikwa)
