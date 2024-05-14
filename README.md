@@ -11,7 +11,7 @@
 - 💻 &nbsp;  JavaScript | Java | C# 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
 - 🛢 &nbsp; MySQL | SQLServer
-- 🔧 &nbsp; Git | GitHub | Docker
+- 🔧 &nbsp; Git | GitHub
 - 🖥 &nbsp; ArcGIS | SPSS
 <br/>
 
@@ -29,6 +29,9 @@
 
 <br/>
   <a href="https://www.instagram.com/exauce_mwililikw/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-exauce_mwililikw__-blue?style=flat-square&logo=instagram"></a>
+
+  <a href="https://www.linkedin.com/in/exauce-mwililikwa-94b829225/"><img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-exauce mwililikwa-blue?style=flat-square&logo=linkedin"></a>
+
 <a href="mailto:exaucemwililikwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-exaucemwililikwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>&nbsp;&nbsp;
 
 ⭐️ From [exauce-mwililikwa](https://github.com/exauce-mwililikwa)
