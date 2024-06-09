@@ -8,11 +8,14 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | Java | C# 
+- 💻 &nbsp;  JavaScript | Java | C# | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
 - 🛢 &nbsp; MySQL | SQLServer
 - 🔧 &nbsp; Git | GitHub
 - 🖥 &nbsp; ArcGIS | SPSS
+
+<h3>🛠 ERP</h3>
+- 🖥 &nbsp; Odoo
 <br/>
 
 [![Exauce Mwililikwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exauce-mwililikwa&show_icons=true)](https://github.com/exauce-mwililikwa)
