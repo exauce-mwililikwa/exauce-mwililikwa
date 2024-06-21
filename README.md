@@ -2,7 +2,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Excited when it comes to reading and getting challenged
-- 🎓 &nbsp; Software Engineer graduated at ISIG - Goma 
+- 🎓 &nbsp; Software Engineer BAC+5 diploma at ISIG - Goma 
 - 🌱 &nbsp; Learning how to build strong backend applications and Machine Learning
 - ✍️ &nbsp; Got a hobby on Chess 
 
@@ -14,10 +14,12 @@
 - 🔧 &nbsp; Git | GitHub
 - 🖥 &nbsp; ArcGIS | SPSS
 
+
 <h3>🛠 ERP</h3>
-- 🖥 &nbsp; Odoo
+
+- 🖥 &nbsp; Odoo 
+
 <br/>
-<br/><br/>
 [![Exauce Mwililikwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=exauce-mwililikwa&show_icons=true)](https://github.com/exauce-mwililikwa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exauce-mwililikwa&show_icons=true&theme=radical&layout=compact)](https://github.com/exauce-mwililikwa/github-readme-stats)
@@ -32,9 +34,11 @@
 
 <br/>
   <a href="https://www.instagram.com/exauce_mwililikw/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-exauce_mwililikw__-blue?style=flat-square&logo=instagram"></a>
-
+<br/>
   <a href="https://www.linkedin.com/in/exauce-mwililikwa-94b829225/"><img alt="Instagram" src="https://img.shields.io/badge/LinkedIn-exauce mwililikwa-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:exaucemwililikwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-exaucemwililikwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>&nbsp;&nbsp;
+<br/>
+  <a href="https://www.facebook.com/profile.php?id=61552758369912"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-exauce mwililikwa-blue?style=flat-square&logo=facebook"></a>
+<br/>
+  <a href="mailto:exaucemwililikwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-exaucemwililikwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>&nbsp;&nbsp;
 
 ⭐️ From [exauce-mwililikwa](https://github.com/exauce-mwililikwa)
