@@ -41,4 +41,12 @@
 <br/>
   <a href="mailto:exaucemwililikwa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-exaucemwililikwa@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>&nbsp;&nbsp;
 
+ <hr>  
+<p align="center">
+  Visitor's count :eyes: <br>
+  
+  <img src="https://profile-counter.glitch.me/exauce-mwililikwa/count.svg" /> 
+  
+</p>
+
 ⭐️ From [exauce-mwililikwa](https://github.com/exauce-mwililikwa)
