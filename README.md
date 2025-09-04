@@ -8,8 +8,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | Java | C# | Python
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
+- 💻 &nbsp;  Java | C# | Python
+- 🌐 &nbsp; HTML | CSS | Bootstrap | PHP
 - 🛢 &nbsp; MySQL | SQLServer
 - 🔧 &nbsp; Git | GitHub
 - 🖥 &nbsp; ArcGIS | SPSS
